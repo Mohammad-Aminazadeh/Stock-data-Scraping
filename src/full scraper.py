@@ -16,8 +16,7 @@ from selenium.webdriver.common.by import By
 
 '''
 LOGIN
-mohammad.aminazadeh98@gmail.com
-1328Koyfin4650
+********
 
 
 CORS handler extention
